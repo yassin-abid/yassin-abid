@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student passionate about bridging the gap between intelligent AI systems and robust web applications. From training machine learning models and building AI agents to developing full-stack platforms with Node.js and Angular, I love turning complex problems into<br><br>practical solutions. When I'm not coding, you'll find me sharpening my security skills in CTF competitions or tackling algorithmic challenges in Python.
+I'm an engineering student passionate about bridging the gap between intelligent AI systems and robust web applications. From training machine learning models and building AI agents to developing full-stack platforms with Node.js and Angular, I love turning complex problems into practical solutions. When I'm not coding, you'll find me sharpening my security skills in CTF competitions or tackling algorithmic challenges in Python with LeetCode.
 
 
 ## 🌐 Socials:
